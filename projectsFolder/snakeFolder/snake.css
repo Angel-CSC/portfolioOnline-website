@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    text-align: center;
+    background-color: mistyrose;
+}
+
+.displayAnnouncer{
+    text-align: center;
+}
+
+.hide{
+    display: none;
+}
+
+
+.displayButton{
+    background-color: lightpink;
+    color: white;
+    height: 30px;
+    width: 190px;
+    border-radius: 20px;
+}
+
+.displayButton:hover{
+    background-color: lightgreen;
+}
